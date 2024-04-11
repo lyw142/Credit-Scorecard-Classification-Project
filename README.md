@@ -3,7 +3,7 @@
 The link for the files are here : https://smu-my.sharepoint.com/:f:/g/personal/william_lay_2021_scis_smu_edu_sg/EjDplTMC98JLnLWvGWnEMgkBvOvwrJhFMdUCLPiSi80sAw?e=tu3O2p
 
 ## Github Link
-https://github.com/lyw142/SPM_G5_T2
+https://github.com/lyw142/Credit-Scorecard-Classification-Project
 
 ## Project Description
 
